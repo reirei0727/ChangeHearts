@@ -1,0 +1,8 @@
+name: Changehearts
+version: '1.0-SNAPSHOT'
+main: changehearts.changehearts.main
+api-version: 1.19
+
+commands:
+  azhearts:
+    description: ゲームスタート

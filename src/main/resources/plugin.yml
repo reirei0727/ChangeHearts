@@ -1,0 +1,8 @@
+name: Changehearts
+version: '${project.version}'
+main: changehearts.changehearts.main
+api-version: 1.19
+
+commands:
+  azhearts:
+    description: ゲームスタート
